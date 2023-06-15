@@ -2,6 +2,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Inceptio](https://en.inceptio.ai/)
+- 🔭 I’m currently working at [Inceptio](https://en.inceptio.ai/)
 - 🌱 I’m currently learning analytics and storage of big data
 - 📫 How to reach me: zhangkuantian@gmail.com
